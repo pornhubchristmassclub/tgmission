@@ -1,0 +1,29 @@
+.col-xl-12{
+    background-color: seashell;
+}
+.sidebar {
+    background-color: #E3D9FF;
+    width: 100%;
+    height: 100%;
+    
+}
+.navbar-brand{
+    padding: 10px;
+}
+.main{
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.form-select{
+    display: flex;
+    width: 250px; 
+    align-items: center; 
+    justify-content: center;
+    margin: 10px;
+}
